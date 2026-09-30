@@ -9,7 +9,7 @@
 <div class="phone-shell">
 <div id="app" class="mobile-app">
 <section class="screen splash active" data-screen="splash">
-  <img class="official-logo" src="/images/resolve-ai-icon.png" alt="Resolve Aí">
+  <img class="official-logo" src="/images/resolve-ai-icon.svg" alt="Resolve Aí">
   <h1>Resolve Aí</h1><p>Quem precisa encontra.<br>Quem sabe fazer, resolve.</p>
   <button class="btn primary" data-go="onboarding">Começar</button>
 </section>
