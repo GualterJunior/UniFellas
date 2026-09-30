@@ -9,7 +9,7 @@
 <div class="phone-shell">
 <div id="app" class="mobile-app">
 <section class="screen splash active" data-screen="splash">
-  <img src="/images/resolve-ai-icon.png" class="splash-logo" alt="Resolve Aí">
+  <div class="logo-mark">✓<i>⌃</i></div>
   <h1>Resolve Aí</h1><p>Quem precisa encontra.<br>Quem sabe fazer, resolve.</p>
   <button class="btn primary" data-go="onboarding">Começar</button>
 </section>
@@ -22,7 +22,7 @@
 </section>
 
 <section class="screen" data-screen="login">
-  <header class="simple-head"><button data-go="onboarding">‹</button><img src="/images/resolve-ai-logo.png" alt="Resolve Aí"></header>
+  <header class="simple-head"><button data-go="onboarding">‹</button><b class="brand">Resolve <em>Aí</em></b></header>
   <div class="content"><h1>Bem-vindo de volta</h1><p class="muted">Entre para continuar.</p>
   <label>E-mail<input type="email" placeholder="voce@email.com"></label><label>Senha<input type="password" placeholder="••••••••"></label>
   <a class="link">Esqueci minha senha</a><button class="btn primary" data-go="home">Entrar</button>
@@ -37,7 +37,7 @@
 </section>
 
 <section class="screen" data-screen="home">
- <header class="app-head"><img src="/images/resolve-ai-logo.png" alt="Resolve Aí"><button class="avatar">AR</button></header>
+ <header class="app-head"><b class="brand">Resolve <em>Aí</em></b><button class="avatar">AR</button></header>
  <div class="content home-content"><p class="location">📍 Rio Branco, AC⌄</p><h1>O que você precisa<br><span>resolver hoje?</span></h1>
  <button class="searchbar" data-go="search">⌕ <span>O que você precisa resolver?</span></button>
  <div class="section-title"><h2>Categorias</h2><button data-go="search">Ver todas</button></div>
