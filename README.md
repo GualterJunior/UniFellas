@@ -75,11 +75,11 @@ Casos de uso: [docs/casos-de-uso.md](RESOLVE-AI/docs/casos-de-uso.md)
 
 - Cadastro e escolha do tipo de uso
 - Home com categorias de serviços
-- Busca e filtros
-- Lista de profissionais
+- Busca de serviços com filtros
+- Visualização da lista de profissionais
 - Perfil profissional
 - Avaliações e indicadores de reputação
-- Solicitação de orçamento
+- Envio de solicitação de orçamento
 - Acompanhamento de pedidos
 - Avaliação após o serviço
 
